@@ -1,0 +1,2 @@
+# RatingsByType
+shiny-pancake
